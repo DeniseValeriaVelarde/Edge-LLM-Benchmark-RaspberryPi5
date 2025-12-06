@@ -51,10 +51,10 @@ prompt_full = f"{prompt_exem}\n\nFrase: '{prompt_text}'\nIntenção:"
 
 Com esta mudança, a acurácia do mesmo modelo saltou para 64%, um aumento de 4.8x. Isso consolidou a engenharia de prompt como um passo essencial para uma avaliação justa e consistente dos modelos.
 
-![alt text](Grafico_resultados/Prompt1vs2.png)
+![alt text](./Grafico_resultados/Prompt1vs2.png)
 
 Resultados Finais
 
 Os testes foram executados em um dataset de 75 frases. Os gráficos abaixo resumem o desempenho de cada modelo.
 
-![alt text](Grafico_resultados/Grafico_comparativo.png)
+![alt text](./Grafico_resultados/Grafico_comparativo.png)
