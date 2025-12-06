@@ -40,7 +40,7 @@ Uma descoberta crucial durante a pesquisa foi o impacto da **Engenharia de Promp
 A hipótese foi que o modelo necessitava de exemplos para entender a tarefa. Implementou-se uma abordagem onde o prompt foi enriquecido com um exemplo para cada intenção.
 
 **Prompt 2 (Alto Desempenho):**
-```python
+
 prompt_exem = """Frase: 'Ascenda a luz da sala'
 Intenção: LIGAR_LUZ
 Frase: 'Pode deixar tudo escuro pra ver o filme?'
