@@ -1,0 +1,76 @@
+frase,intencao
+"Ilumine a varanda, por favor","LIGAR_LUZ"
+"Acenda o abajur do quarto","LIGAR_LUZ"
+"Luz da garagem, por favor","LIGAR_LUZ"
+"Preciso de luz para ler aqui na poltrona","LIGAR_LUZ"
+"Vamos clarear um pouco as coisas","LIGAR_LUZ"
+"Estou chegando em casa, acenda a entrada","LIGAR_LUZ"
+"Ligue a luz da sala de estar",LIGAR_LUZ
+"Acenda a iluminação da cozinha",LIGAR_LUZ
+"Quero um pouco mais de claridade aqui",LIGAR_LUZ
+"Está muito escuro neste quarto",LIGAR_LUZ
+"Luzes, por favor",LIGAR_LUZ
+"Ativar modo leitura no escritório",LIGAR_LUZ
+"Modo noturno ativado","DESLIGAR_LUZ"
+"Apaga a luz do banheiro","DESLIGAR_LUZ"
+"Zerar iluminação da casa","DESLIGAR_LUZ"
+"Estou de saída, pode apagar tudo","DESLIGAR_LUZ"
+"Vamos economizar energia","DESLIGAR_LUZ"
+"Chega de luz por hoje","DESLIGAR_LUZ"
+"Apague todas as luzes",DESLIGAR_LUZ
+"Desligue a lâmpada do corredor",DESLIGAR_LUZ
+"Pode deixar tudo escuro para o filme?",DESLIGAR_LUZ
+"Vou dormir, boa noite",DESLIGAR_LUZ
+"Cortar energia da iluminação",DESLIGAR_LUZ
+"Modo cinema",DESLIGAR_LUZ
+"Ligue o ar condicionado","AJUSTAR_TEMPERATURA"
+"Que calor! Pode refrescar o ambiente?","AJUSTAR_TEMPERATURA"
+"Desligue o aquecedor","AJUSTAR_TEMPERATURA"
+"Aumente a velocidade do ventilador","AJUSTAR_TEMPERATURA"
+"Ativar modo de economia do ar condicionado","AJUSTAR_TEMPERATURA"
+"Quero o quarto em 22 graus","AJUSTAR_TEMPERATURA"
+"Ajuste o ar condicionado para 23 graus",AJUSTAR_TEMPERATURA
+"Estou com um pouco de frio",AJUSTAR_TEMPERATURA
+"Pode deixar o ambiente mais quente?",AJUSTAR_TEMPERATURA
+"Qual a temperatura agora?",AJUSTAR_TEMPERATURA
+"Diminua a ventilação",AJUSTAR_TEMPERATURA
+"Climatizador em 21C",AJUSTAR_TEMPERATURA
+"Pausar a música","TOCAR_MUSICA"
+"Diminua o volume","TOCAR_MUSICA"
+"Que música está tocando?","TOCAR_MUSICA"
+"Toque os maiores sucessos dos anos 80","TOCAR_MUSICA"
+"Coloque um podcast para tocar","TOCAR_MUSICA"
+"Volte para a música anterior","TOCAR_MUSICA"
+"Tocar rádio FM","TOCAR_MUSICA"
+"Toque um pouco de rock clássico",TOCAR_MUSICA
+"Quero ouvir a última da Beyoncé",TOCAR_MUSICA
+"Play na minha playlist de treino",TOCAR_MUSICA
+"Coloca uma música ambiente",TOCAR_MUSICA
+"Próxima faixa",TOCAR_MUSICA
+"Aumenta o som",TOCAR_MUSICA
+"Qual é o horário?","OBTER_HORA"
+"Me atualize sobre as horas","OBTER_HORA"
+"Quanto tempo falta para a meia-noite?","OBTER_HORA"
+"Poderia informar o horário exato?","OBTER_HORA"
+"Que horas marca o relógio?","OBTER_HORA"
+"Horário local, por favor","OBTER_HORA"
+"Que horas são agora?",OBTER_HORA
+"Pode me dizer o horário, por favor?",OBTER_HORA
+"Me fale as horas",OBTER_HORA
+"Consulta a hora",OBTER_HORA
+"Horário",OBTER_HORA
+"O relógio está certo?",OBTER_HORA
+"Defina um alarme para as 7 da manhã","NAO_RECONHECIDO"
+"Adicione leite à minha lista de compras","NAO_RECONHECIDO"
+"Ligue a cafeteira","NAO_RECONHECIDO"
+"Qual o resultado do jogo de ontem?","NAO_RECONHECIDO"
+"Feche as persianas da sala","NAO_RECONHECIDO"
+"Me lembre de ligar para minha mãe em 10 minutos","NAO_RECONHECIDO"
+"Aspire a sala de estar","NAO_RECONHECIDO"
+"Quem descobriu o Brasil?","NAO_RECONHECIDO"
+"Qual a previsão do tempo para amanhã?",NAO_RECONHECIDO
+"Ligue a televisão no canal de notícias",NAO_RECONHECIDO
+"Me conte uma piada",NAO_RECONHECIDO
+"Onde fica a padaria mais próxima?",NAO_RECONHECIDO
+"O céu é azul?",NAO_RECONHECIDO
+"Abrir as cortinas",NAO_RECONHECIDO
